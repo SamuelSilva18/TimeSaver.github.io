@@ -1,0 +1,101 @@
+.forum-col{
+    min-width: 24px;
+}
+.topico-col{
+    min-width: 24px;
+}
+.criado-col,
+.recentes-col{
+    min-width: 18px;
+}
+
+.seletorpages{
+    padding-left: 650px;
+}
+
+#menusite{
+    display: flex;
+    padding-left: 200px;
+    padding-top: -200px;
+    align-items: center;
+    color:darkred;
+
+}
+.nav-item {
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    color:darkred;
+}
+.logo-container > img {
+    max-height: 100px;
+}
+
+.nav-menu {
+    display: flex;
+    padding-left: 500px;
+	padding-top: 0px;
+    align-items: center;
+}
+
+.nav-item {
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    color: darkred;
+}
+.input-container {
+    float: left;
+    height: 40px;
+}
+
+#titular-new-reminder 
+{
+	color:darkred;
+	;
+}
+
+.titular-tarefas 
+{
+	color:darkred;
+	
+}
+
+textarea
+{
+	border: 1px solid #41dff4;
+}
+
+.recordatorio
+{
+	padding: 0.5em;
+	background-color: #41dff4;
+	color: white;
+	cursor: pointer;
+}
+
+#buttomSave
+{
+	cursor: pointer;
+}
+
+#buttomSave, .fa-window-close
+{
+	cursor: pointer;
+}
+#titulo
+{
+    color: darkred;
+}
+#pesqu
+{
+    
+    background-color: darkred;
+    border-color: darkred;
+}
